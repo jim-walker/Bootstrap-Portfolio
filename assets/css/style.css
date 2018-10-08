@@ -1,0 +1,9 @@
+body {
+    background: #efefef url("../images/concrete_seamless.png");
+    margin: 0;
+}
+.img-fluid {
+    width: 200px;
+    height: auto;
+} 
+
